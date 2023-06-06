@@ -45,7 +45,3 @@
   </a>
 </div>
 
-### :fire: My Stats (rookie numbers) :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Walkerjony&theme=neon)](https://git.io/streak-stats) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=walkerjony&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
